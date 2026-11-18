@@ -99,6 +99,6 @@ Building Modern Web & Software Applications 💻
 
 ### 💻 Code • Create • Learn • Repeat 🚀
 
-Thanks for visiting my profile! ❤️
+Thanks for visiting my profile!  ❤️
 
 \</div>
