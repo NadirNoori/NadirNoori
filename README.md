@@ -1,71 +1,104 @@
-<div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Nadir%20Noori%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20•%20Web%20•%20Android&descSize=18&descAlignY=60" alt="header" />
+# 👋 Hey, I'm Nadir Noori
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%26+Web+Developer;Building+Modern+Applications;Always+Learning+%26+Growing" alt="typing" />
+### 🚀 Full Stack Developer | Software Developer
 
-</div>
+Building Modern Web & Software Applications 💻
+
+\<a href="[https://nadirnoori.github.io/Portfolio-Web/](https://nadirnoori.github.io/Portfolio-Web/)">   \<img src="[https://img.shields.io/badge/🌐\_My_Portfolio-Visit_Website-blue?style=for-the-badge](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-blue?style=for-the-badge)" /> \</a>
+
+\</div>
 
 ---
 
-## 👨‍💻 About Me
+\<h2 align="center">👨‍💻 About Me\</h2>
 
-- 📍 Based in **Kalutara, Sri Lanka** 🇱🇰
-- 📱 Trained in **Mobile Application Development**
-- 🔨 Building Android apps and modern, responsive websites
-- 🌱 Always learning, always growing
+- 🚀 Passionate Full Stack Developer
+- 💻 Interested in Web & Software Development
+- 🌱 Always learning new technologies
+- 🎯 Building real-world projects
+- 🇱🇰 Based in Sri Lanka
+- ❤️ Alhamdulillah for everything
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
+\<h2 align="center">🛠️ Tech Stack\</h2>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+\<div align="center">
 
-**Frameworks & Tools**
+\<img src="[https://skillicons.dev/icons?i=html,css,js,php,java,react,nextjs,bootstrap,mysql,sqlite](https://skillicons.dev/icons?i=html,css,js,php,java,react,nextjs,bootstrap,mysql,sqlite)" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+\</div>
 
-**Databases**
+\<h2 align="center">⚙️ Tools & Technologies\</h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+\<div align="center">
 
-## 📊 GitHub Stats
+\<img src="[https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,linux](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,linux)" />
 
-<div align="center">
+\</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NadirNoori&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirNoori&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+---
 
-</div>
+\<h2 align="center">📊 GitHub Statistics\</h2>
 
-## 🚀 Featured Projects
+\<div align="center">
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| 🌐 [**Portfolio-Web**](https://github.com/NadirNoori/Portfolio-Web) | My personal portfolio website ([live](https://nadirnoori.github.io/Portfolio-Web/)) | HTML, CSS, JS |
-| 🍔 [**Food-order-system**](https://github.com/NadirNoori/Food-order-system) | Food ordering system with a clean, responsive UI | HTML, CSS |
+\<img width="48%" src="[https://github-readme-stats.vercel.app/api?username=NadirNoori&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=NadirNoori\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
 
-## 📫 Let's Connect
+\<img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NadirNoori&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=NadirNoori\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-<div align="center">
+\</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=githubpages&logoColor=white)](https://nadirnoori.github.io/Portfolio-Web/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadir-noori-684b93421)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadirnoori420@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nadirnoori10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nxdir.noori)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@noori-m6h)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+\<h2 align="center">🚀 Featured Projects\</h2>
 
-</div>
+\<div align="center">
+
+| Project                 | Description                     |
+| ----------------------- | ------------------------------- |
+| 🌐 Portfolio Website    | My personal developer portfolio |
+| 🍔 Food Ordering System | Food ordering web application   |
+| 📚 Mini Library         | Library management project      |
+
+\</div>
+
+\<div align="center">
+
+\<a href="[https://github.com/NadirNoori/Portfolio-Web](https://github.com/NadirNoori/Portfolio-Web)">Portfolio\</a> •
+\<a href="[https://github.com/NadirNoori/Food-order-system](https://github.com/NadirNoori/Food-order-system)">Food Ordering\</a> •
+\<a href="[https://github.com/NadirNoori/Mini-Library-1](https://github.com/NadirNoori/Mini-Library-1)">Mini Library\</a>
+
+\</div>
+
+---
+
+\<h2 align="center">🌐 Connect With Me\</h2>
+
+\<div align="center">
+
+\<a href="[https://github.com/NadirNoori](https://github.com/NadirNoori)">
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+
+\<a href="[https://www.linkedin.com/in/nadir-noori-684b93421/](https://www.linkedin.com/in/nadir-noori-684b93421/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+\</a>
+
+\<a href="[https://instagram.com/nxdir.noori](https://instagram.com/nxdir.noori)">
+\<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />
+\</a>
+
+\</div>
+
+---
+
+\<div align="center">
+
+### 💻 Code • Create • Learn • Repeat 🚀
+
+Thanks for visiting my profile! ❤️
+
+\</div>
